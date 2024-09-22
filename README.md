@@ -1,6 +1,6 @@
 # nextyenna
 
-A new Flutter project.
+A Simple Todo App
 
 ## Getting Started
 
